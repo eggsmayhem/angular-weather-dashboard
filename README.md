@@ -17,5 +17,10 @@ https://rapidapi.com/weatherapi/api/weatherapi-com
 #### structural directives (*ngIf)
 #### interpolation (displaying our weather data on the front end)
 
+## Tools 
+#### If you are using TypeScript and API Calls, these are your best friends
+https://jsonformatter.org/
+https://transform.tools/json-to-typescript
+
 ## What next? 
 Moving towards more frequently updated data to see more benefits of subscriptions 
